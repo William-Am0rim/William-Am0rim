@@ -1,12 +1,57 @@
-- 👋 Hi, I’m @William-Am0rim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Olá! Eu sou o William Amorim  
 
-<!---
-William-Am0rim/William-Am0rim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Desenvolvedor Front-End em formação**  
+💻 Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em interfaces funcionais e bonitas.  
+🚀 Em busca da minha **primeira oportunidade profissional** na área de desenvolvimento web.
+
+---
+
+## 🧠 Sobre mim
+
+Comecei meus estudos em desenvolvimento com foco em **HTML, CSS, JavaScript e React**.  
+Gosto de desafios e de aprender coisas novas todos os dias — principalmente sobre **boas práticas, UI/UX e performance web**.  
+
+Atualmente estou:
+- 💡 Praticando projetos próprios para fortalecer meu portfólio  
+- 📚 Aprendendo **TypeScript** e **Next.js**  
+- 🤝 Participando de comunidades de tecnologia e contribuindo com código aberto
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Projetos em destaque
+
+### 🧾 [To-Do List App](https://github.com/seuusuario/todo-list)
+Aplicação simples de tarefas com React e LocalStorage.  
+🧠 Conceitos aplicados: hooks, componentização e gerenciamento de estado.
+
+### 🎨 [Landing Page Responsiva](https://github.com/seuusuario/landing-page)
+Página responsiva feita com HTML, CSS e Flexbox.  
+💡 Foco em boas práticas de layout e responsividade.
+
+---
+
+## 📫 Como me encontrar
+
+📧 **Email:** [seuemail@gmail.com](mailto:seuemail@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/seunome](https://linkedin.com/in/seunome)  
+🌐 **Portfólio:** [seusite.dev](https://seusite.dev)
+
+---
+
+⭐ Se curtiu meus projetos, dê um **star**! Isso me ajuda muito 🚀  
