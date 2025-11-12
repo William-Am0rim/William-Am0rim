@@ -41,6 +41,6 @@ Atualmente estou:
 
 ## 📫 Como me encontrar
 
-📧 **Email:** [seuemail@gmail.com](mailto:william.amoriim@outlook.com)  
-💼 **LinkedIn:** [linkedin.com/in/seunome](https://www.linkedin.com/in/william-amorim-46b92b2b6/)  
+📧 **Email:** [william.amoriim@outlook.com](mailto:william.amoriim@outlook.com)  
+💼 **LinkedIn:** [linkedin.com/william-amorim](https://www.linkedin.com/in/william-amorim-46b92b2b6/)  
 
