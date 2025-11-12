@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o William Amorim  
 
-🎯 **Desenvolvedor Front-End em formação**  
+🎯 **Desenvolvedor Front-End**  
 💻 Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em interfaces funcionais e bonitas.  
 🚀 Em busca da minha **primeira oportunidade profissional** na área de desenvolvimento web.
 
