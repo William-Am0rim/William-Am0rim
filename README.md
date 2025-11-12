@@ -34,24 +34,8 @@ Atualmente estou:
 
 ---
 
-## 📂 Projetos em destaque
-
-### 🧾 [To-Do List App](https://github.com/seuusuario/todo-list)
-Aplicação simples de tarefas com React e LocalStorage.  
-🧠 Conceitos aplicados: hooks, componentização e gerenciamento de estado.
-
-### 🎨 [Landing Page Responsiva](https://github.com/seuusuario/landing-page)
-Página responsiva feita com HTML, CSS e Flexbox.  
-💡 Foco em boas práticas de layout e responsividade.
-
----
-
 ## 📫 Como me encontrar
 
-📧 **Email:** [seuemail@gmail.com](mailto:seuemail@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/seunome](https://linkedin.com/in/seunome)  
-🌐 **Portfólio:** [seusite.dev](https://seusite.dev)
+📧 **Email:** [seuemail@gmail.com](mailto:william.amoriim@outlook.com)  
+💼 **LinkedIn:** [linkedin.com/in/seunome](https://www.linkedin.com/in/william-amorim-46b92b2b6/)  
 
----
-
-⭐ Se curtiu meus projetos, dê um **star**! Isso me ajuda muito 🚀  
