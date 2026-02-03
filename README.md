@@ -2,8 +2,8 @@
 
 > **Full Stack Developer** focado em construir produtos SaaS escaláveis e interfaces de alta conversão.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=SEU_LINK_DO_LINKEDIN)](SEU_LINK_DO_LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:SEU_EMAIL)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-amorim-46b92b2b6)](https://www.linkedin.com/in/william-amorim-46b92b2b6)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:william.amoriim@outlook.com)](mailto:william.amoriim@outlook.com)
 
 ---
 
@@ -35,7 +35,7 @@ Atualmente, meu foco está em **desenvolvimento de produtos (SaaS)**, unindo per
 
 ### ⚡ Atualmente
 
-- 🔭 **Construindo:** [FinTrixy](LINK_SE_TIVER) (Sistema de gestão financeira) e **FinanSync** (API de integração).
+- 🔭 **Construindo:** **FinanSync** (API de integração e gestão).
 - 🌱 **Aprofundando:** Arquitetura de Software, Otimização de Conversão (CRO) e Integração com IA (Gemini/OpenAI).
 - 💡 **Interesse:** Criação de soluções SaaS e Automação de processos.
 
@@ -46,4 +46,8 @@ Atualmente, meu foco está em **desenvolvimento de produtos (SaaS)**, unindo per
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-Am0rim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Am0rim&layout=compact&theme=dracula"/>
+</div>
+
+<div align="left">
+  <img src="https://media.giphy.com/media/Q8OPrlvICzjajupr2T/giphy.gif" width="80px" alt="Gato programando e tomando café">
 </div>
