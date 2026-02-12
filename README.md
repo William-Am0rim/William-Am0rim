@@ -72,7 +72,7 @@ Atualmente, dedico meus estudos e prática ao aprimoramento de interfaces de usu
 
 
 
-<img src="https://drive.google.com/drive/folders/1PPpbJ3UvXrotSCStPO7oYYsoPnawMRvk?hl=pt-br" align="right" width="250" alt="GitHub Cat Coffee">
+<img src="https://drive.google.com/file/d/1EfdwJg3axIGwhhtLlShFG--g9MYemnvF/view?usp=sharing" align="right" width="250" alt="GitHub Cat Coffee">
 
 
 
